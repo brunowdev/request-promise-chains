@@ -1,3 +1,4 @@
+'use strict';
 let request = require('request')
 let rp = require('request-promise')
 
